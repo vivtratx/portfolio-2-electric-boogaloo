@@ -12,8 +12,8 @@ const BriefcaseButton = ({
   size = 48,
   color = "#5298C8",
   onClick,
-  top = "66%",
-  left = "43%",
+  top = "62%",
+  left = "38.9%",
 }: BriefcaseButtonProps) => {
   return (
     <button

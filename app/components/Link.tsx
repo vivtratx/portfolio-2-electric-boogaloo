@@ -12,8 +12,8 @@ const LinkButton = ({
   size = 48,
   color = "#5298C8",
   onClick,
-  top = "66%",
-  left = "35%",
+  top = "62%",
+  left = "30.1%",
 }: LinkButtonProps) => {
   return (
     <button

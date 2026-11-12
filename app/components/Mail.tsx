@@ -12,8 +12,8 @@ const MailButton = ({
   size = 48,
   color = "#5298C8",
   onClick,
-  top = "66%",
-  left = "51%",
+  top = "62%",
+  left = "47.4%",
 }: MailButtonProps) => {
   return (
     <button

@@ -12,8 +12,8 @@ const CircleUserButton = ({
   size = 48,
   color = "#5298C8",
   onClick,
-  top = "66%",
-  left = "27%",
+  top = "62%",
+  left = "21.6%",
 }: CircleUserProps) => {
   return (
     <button
